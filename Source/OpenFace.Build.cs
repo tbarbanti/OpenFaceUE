@@ -3,11 +3,11 @@
 using UnrealBuildTool;
 using System.IO;
 
-public class OpenCV : ModuleRules
+public class OpenFace : ModuleRules
 {
     private string ThirdPartyPath
     {
-        get { return Path.GetFullPath(Path.Combine(ModuleDirectory, "../../../../ThirdParty/")); }
+        get { return Path.GetFullPath(Path.Combine(ModuleDirectory, "../ThirdParty/")); }
     }
 
 	public OpenCV(TargetInfo Target)
