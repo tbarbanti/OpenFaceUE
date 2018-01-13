@@ -1,4 +1,6 @@
-// Some copyright should be here...
+// OpenFace plugin for Unreal Engine
+// tbarbanti@gmail.com
+// 2018/01
 
 using UnrealBuildTool;
 using System.IO;
