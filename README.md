@@ -36,7 +36,7 @@ UE4 Plugin:
 
 Plugin made by [tbarbanti](https://github.com/tbarbanti). Any question please contact me (_tbarbanti@gmail.com_)
 
-Many thanks to [**TadasBaltrusaitis**](https://github.com/TadasBaltrusaitis) by the great job to bring OpenFace in github a great tool specially when the commercial solutions of facial capture is based em computer vision matlab models or depth sensors and not well documented for researchers in general.
+Many thanks to [**TadasBaltrusaitis**](https://github.com/TadasBaltrusaitis) by the great job to bring OpenFace in github a great tool specially when the commercial solutions of facial capture is based em computer vision matlab models or depth sensors APIs and not well documented for developers and enthusiasts in general to achieve high precision.
 
 
 ## License
