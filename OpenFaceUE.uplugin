@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "OpenFaceUE",
+	"Description": "A simple plugin that integrates OpenCV 3.0.0 to UE4. I am in no way affiliated with OpenCV, and their library can be found for free at http://opencv.org/.  This plugin is made by the UE4 community, and does not mean that OpenCV endorses UE4 in any way.",
+	"Category": "Computer Vision",
+	"CreatedBy": "tbarbanti",
+	"CreatedByURL": "",
+	"DocsURL": "https://github.com/TadasBaltrusaitis/OpenFace",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"Modules": [
+		{
+			"Name": "OpenFaceUE",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		}
+	],
+	"EnabledByDefault": false,
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false
+}
