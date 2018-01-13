@@ -24,14 +24,14 @@ UE4 Plugin:
      - Multithread for aquisition frames;
      - Some filters to improve data aquisition series in order to apply in recorded data; 
   
- * _**Dependency:**_ (ThirdParty plugin directory)
-  - OpenCV 3.0+
-  - Boost C++ Library
-  - DLib vision computing lib
-  - OpenFace
-  - OpenBlas
-  - Intel TBB
-  - NVIDIA CUDA 8+ (not included)
+ * Dependency: (ThirdParty plugin directory)
+     - OpenCV 3.0+
+     - Boost C++ Library
+     - DLib vision computing lib
+     - OpenFace
+     - OpenBlas
+     - Intel TBB
+     - NVIDIA CUDA 8+ (not included)
 
 
 Plugin made by [tbarbanti](https://github.com/tbarbanti). Any question please contact me (_tbarbanti@gmail.com_)
