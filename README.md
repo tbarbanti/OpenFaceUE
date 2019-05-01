@@ -21,6 +21,8 @@ UE4 Plugin:
 
 ![Example Plugin2](https://github.com/tbarbanti/OpenFaceUE/raw/master/img/OpenFACE_AU.png)
 
+![Example Plugin3](https://github.com/tbarbanti/OpenFaceUE/raw/master/img/OpenFACE_AU2.png)
+
 * Development Road-map:
      - Use landing markers data for realtime facial animation integrated as an animation blueprint of UE skeleton morphtargets;
      - Use Action units inside editor;
