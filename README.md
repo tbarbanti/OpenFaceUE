@@ -17,12 +17,15 @@ OpenFace:
 ![Example 2](https://github.com/TadasBaltrusaitis/OpenFace/raw/master/imgs/au_sample.png)
 
 UE4 Plugin:
-![Example Plugin](https://github.com/tbarbanti/OpenFaceUE/raw/master/img/Screenshot_20180113-041047.png)
+![Example Plugin1](https://github.com/tbarbanti/OpenFaceUE/raw/master/img/Screenshot_20180113-041047.png)
+
+![Example Plugin2](https://github.com/tbarbanti/OpenFaceUE/raw/master/img/OpenFACE_AU.png)
 
 * Development Road-map:
      - Use landing markers data for realtime facial animation integrated as an animation blueprint of UE skeleton morphtargets;
-     - Multithread for aquisition frames;
-     - Some filters to improve data aquisition series in order to apply in recorded data; 
+     - Use Action units inside editor;
+     - Multithread for improve aquisition frames;
+     - Some filters to improve data aquisition time-series in order to apply in recorded data (2nd order lowpass, kalman and others); 
   
  * Dependency: (ThirdParty plugin directory)
      - OpenCV 3.0+
